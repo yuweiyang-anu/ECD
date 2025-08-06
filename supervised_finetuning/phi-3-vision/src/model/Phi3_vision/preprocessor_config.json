@@ -1,0 +1,20 @@
+{
+    "auto_map": {
+        "AutoProcessor": "processing_phi3_v.Phi3VProcessor",
+        "AutoImageProcessor": "image_processing_phi3_v.Phi3VImageProcessor"
+    },
+    "num_crops": 16,
+    "image_mean": [
+      0.48145466,
+      0.4578275,
+      0.40821073
+    ],
+    "image_processor_type": "Phi3VImageProcessor",
+    "image_std": [
+      0.26862954,
+      0.26130258,
+      0.27577711
+    ],
+    "processor_class": "Phi3VProcessor",
+    "num_img_tokens": 144
+  }

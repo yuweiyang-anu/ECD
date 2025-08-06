@@ -1,0 +1,12 @@
+### model
+model_name_or_path: openbmb/MiniCPM-V-2_6
+adapter_name_or_path: output/lora_minicpm_v2_6_on_ECD
+template: minicpm_v
+finetuning_type: lora
+trust_remote_code: true
+
+### export
+export_dir: output/lora_minicpm_v2_6_on_ECD-merged
+export_size: 2
+export_device: cpu
+export_legacy_format: false

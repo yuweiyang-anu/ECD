@@ -1,0 +1,12 @@
+### model
+model_name_or_path: llava-hf/llama3-llava-next-8b-hf
+adapter_name_or_path: output/lora_llava-next-8b_on_ECD
+template: llava_next
+finetuning_type: lora
+trust_remote_code: true
+
+### export
+export_dir: output/lora_llava-next-8b_on_ECD-merged
+export_size: 2
+export_device: cpu
+export_legacy_format: false

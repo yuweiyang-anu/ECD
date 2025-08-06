@@ -1,0 +1,10 @@
+{
+    "ECD": {
+        "file_name": "ECD/datasets/ECD_qa_data_all_formatted_for_llamafactory.json",
+        "formatting": "sharegpt",
+        "columns": {
+            "messages": "conversations",
+            "images": "images"
+        }
+    }
+}
