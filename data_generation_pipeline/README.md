@@ -7,7 +7,7 @@ pip install squarify <br>
 pip install plotly <br>
 
 ## Data Generation Pipeline:
-### For Chart Image Generation:
+### For Chart Image Generation and Diversification:
 1. For Single-plot generation, you should configure OpenAI API key in the 'single_plot_generation_pipeline.py' and 'single_plot_overlay_generation_pipeline.py' and run:
 ```
 python single_plot_generation_pipeline.py
@@ -49,6 +49,7 @@ python reasoning_qa_generation.py
 After the QA generation step, you can also simply filter QAs that gpt's rating > 5.
 
 Upon completion of the aforementioned steps, a custom ECD dataset can be successfully constructed.
+
 
 
 
