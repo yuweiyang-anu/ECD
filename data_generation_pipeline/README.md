@@ -6,6 +6,8 @@ pip install scipy <br>
 pip install mplfinance <br>
 pip install squarify <br>
 pip install plotly <br>
+pip install numpy <br>
+pip install matplotlib <br>
 
 ## Data Generation Pipeline:
 ### For Chart Image Generation and Diversification:
@@ -50,6 +52,7 @@ python reasoning_qa_generation.py
 After the QA generation step, you can also simply filter QAs that gpt's rating > 5.
 
 Upon completion of the aforementioned steps, a custom ECD dataset can be successfully constructed.
+
 
 
 
