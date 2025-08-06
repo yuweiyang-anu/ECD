@@ -1,10 +1,10 @@
 ## Requirements：
-pip install networkx
-pip install scipy
-pip install camel-ai==0.2.3 
-pip install mplfinance
-pip install squarify
-pip install plotly
+pip install networkx <br>
+pip install scipy <br>
+pip install camel-ai==0.2.3 <br> 
+pip install mplfinance <br>
+pip install squarify <br>
+pip install plotly <br>
 
 ## Data Generation Pipeline:
 ### For Chart Image Generation:
@@ -49,6 +49,7 @@ python reasoning_qa_generation.py
 After the QA generation step, you can also simply filter QAs that gpt's rating > 5.
 
 Upon completion of the aforementioned steps, a custom ECD dataset can be successfully constructed.
+
 
 
 
