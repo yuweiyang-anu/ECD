@@ -41,7 +41,7 @@ python chart_image_filtering.py --scoring_type 'semantic_coherence'
 After the chart image rating step, you can simply filter images that ratings are over the average rating of 'visual_clarity' and 'semantic_coherence'.
 
 ### For Chart QA Generation:
-For Chart QA generation, you should also configure the OpenAI API key / code folder_path and run the following py files to generate the 'descriptive' and 'reasoning'-related QA pairs:
+For Chart QA generation, you should also configure the OpenAI API key / code folder_path and run the following py files to generate the 'descriptive' and 'reasoning'-based QA pairs:
 ```
 python descriptive_qa_generation.py
 python reasoning_qa_generation.py
@@ -49,6 +49,7 @@ python reasoning_qa_generation.py
 After the QA generation step, you can also simply filter QAs that gpt's rating > 5.
 
 Upon completion of the aforementioned steps, a custom ECD dataset can be successfully constructed.
+
 
 
 
