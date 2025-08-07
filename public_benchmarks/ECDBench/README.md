@@ -1,0 +1,2 @@
+## ECDBench
+You need to download the test dataset (ECDBench) of ECD from the link: 'https://huggingface.co/datasets/ChartFoundation/ECDBench' and put the "rendered_images" under this folder, the QA data is organized in 'ECD_Bench_All.json'.

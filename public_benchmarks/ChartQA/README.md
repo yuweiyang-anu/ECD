@@ -1,0 +1,2 @@
+## ChartQA
+You need to download the test dataset of ChartQA from the link: 'https://huggingface.co/datasets/ahmed-masry/ChartQA' and organized in the manner of 'test/test_data.json', image should be put in the folder 'test/png/'.
