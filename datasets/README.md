@@ -1,7 +1,7 @@
 ## ECD dataset
 You need to download the ECD dataset from the link: 'https://huggingface.co/datasets/ChartFoundation/ECD-10k-Images' and put the "images" and "ECD_QAs_All.json" under this folder.
 
-After the download the data, you should configure the image path in the 'convert_to_format.py' and run:
+After downloading the data, you should configure the image path in the 'convert_to_format.py' and run:
 ```
 python convert_to_format.py
 ```
