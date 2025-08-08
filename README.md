@@ -31,6 +31,7 @@ This approach allows us to streamline the generation of fine-tuning datasets and
 
 ## ♻️ Data Generation
 The overall data generation pipeline used in our work is open-sourced and available for customization. It includes all necessary components for generating ECD synthetic data tailored to MLLM training and evaluation. For a detailed implementation of the pipeline, please refer to the [README](https://github.com/yuweiyang-anu/ECD/tree/main/data_generation_pipeline/README.md) file in the `data_generation_pipeline` directory. The complete ECD dataset (including chart images, codes and QA pairs) generated using this pipeline is publicly available on [🤗Hugging Face](https://huggingface.co/datasets/ChartFoundation/ECD-10k-Images).
+![teaser](dataset_comparsion.png)
 
 ## 🛠️ SFT on MLLMs
 ### Data Preparation
