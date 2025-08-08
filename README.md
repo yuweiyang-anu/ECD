@@ -36,7 +36,7 @@ The overall data generation pipeline used in our work is open-sourced and availa
 
 ## 🛠️ SFT on MLLMs
 ### Data Preparation
-You should first navigate to the `datasets` directory and follow the instructions in the corresponding [`README.md`](https://github.com/yuweiyang-anu/ECD/tree/main/datasets/README.md) file to download and prepare our ECD dataset in specific format.
+You should first navigate to the `datasets` directory and follow the instructions in the corresponding [`README.md`](https://github.com/yuweiyang-anu/ECD/tree/main/datasets/README.md) file to download and prepare our ECD in specific format.
 
 ### Environment Setup
 To set up our environment, you should go to the `supervised_finetuning` directory, and run:
