@@ -113,7 +113,7 @@ bash ./scripts/merge_lora.sh
 To prepare the benchmark datasets, please first navigate to the `public_benchmarks` directory. For each benchmark—**CharXiv**, **ChartQA**, **ReachQA**, **ChartBench**, **ChartX**, and **ECDBench**—enter its corresponding subdirectory and follow the instructions provided in its `README.md` file. Each README contains the relevant download links and data organization formats required to set up the benchmark properly.
 
 ### Model Test 
-To evaluate the models, similarly navigate to the `evaluation` directory. For each test set, enter its corresponding subdirectory and configure the necessary parameters (e.g., your_trained_model_path) in the `bash_evaluation.sh` script. Once configured, you can run the evaluation by executing:
+To evaluate the models, similarly navigate to the `evaluation` directory. For each test set, enter its corresponding subdirectory and configure the necessary parameters (e.g., your_trained_model_path) in the `bash_evaluation.sh` script (also `api_key` parameter in the correspoinding py files). Once configured, you can run the evaluation by executing:
 
 ```
 bash ./bash_evaluation.sh
