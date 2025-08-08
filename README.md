@@ -1,5 +1,5 @@
 <h1 align="center">
-  Effective Training Data Synthesis for Improving MLLM Chart Understanding
+  🔥 Effective Training Data Synthesis for Improving MLLM Chart Understanding
 </h1>
 <h3 align="center" style="color: blue; font-weight: normal;">
   ICCV 2025 (poster)
