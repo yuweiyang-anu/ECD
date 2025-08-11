@@ -20,6 +20,7 @@
   <a href="https://huggingface.co/datasets/ChartFoundation/ECD-10k-Images">🤗 Dataset </a> &ensp;
   <a href="https://huggingface.co/datasets/ChartFoundation/ECDBench">🥇 Benchmark </a> &ensp;
   <a href="https://huggingface.co/ChartFoundation/ECD_Finetuned_MLLMs"> 🧠 Models </a> &ensp;
+  <a href="https://arxiv.org/pdf/2508.06492"> 📃 Paper </a> &ensp;
   <br><br>
 </p>
 
@@ -179,6 +180,13 @@ If ECD proves beneficial to your research, please consider citing our paper in y
      booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
      year={2025}
  }
+
+@article{yang2025effective,
+  title={Effective Training Data Synthesis for Improving MLLM Chart Understanding},
+  author={Yang, Yuwei and Zhang, Zeyu and Hou, Yunzhong and Li, Zhuowan and Liu, Gaowen and Payani, Ali and Ting, Yuan-Sen and Zheng, Liang},
+  journal={arXiv preprint arXiv:2508.06492},
+  year={2025}
+}
 ```
 
 ## 💡 Acknowledgement
