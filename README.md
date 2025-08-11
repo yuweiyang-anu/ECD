@@ -175,10 +175,10 @@ If ECD proves beneficial to your research, please consider citing our paper in y
 
 ```
 @inproceedings{yang2025effective,
-     title={Effective Training Data Synthesis for Improving MLLM Chart Understanding},
-     author={Yang, Yuwei and Zhang, Zeyu and Hou, Yunzhong and Li, Zhuowan and Liu, Gaowen and Payani, Ali and Ting, Yuan-Sen and Zheng, Liang},
-     booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-     year={2025}
+  title={Effective Training Data Synthesis for Improving MLLM Chart Understanding},
+  author={Yang, Yuwei and Zhang, Zeyu and Hou, Yunzhong and Li, Zhuowan and Liu, Gaowen and Payani, Ali and Ting, Yuan-Sen and Zheng, Liang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  year={2025}
  }
 
 @article{yang2025effective,
