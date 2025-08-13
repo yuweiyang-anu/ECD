@@ -163,8 +163,8 @@ The inference outputs by MLLMs and GPT-4o-based evaluation results will be saved
 | Claude 4 Sonnet    | 44.20     | 69.36       | 56.78   |
 | Claude 3.7 Sonnet  | 43.38     | 69.61       | 56.50   |
 | Claude 3.5 Sonnet  | 41.99     | 68.14       | 55.07   |
-| GPT-4o             | 35.62     | 70.18       | 52.90   |
 | Qwen2.5-VL-72B     | 38.81     | 68.46       | 53.64   |
+| GPT-4o             | 35.62     | 70.18       | 52.90   |
 | GPT-4o-mini        | 24.26     | 57.27       | 40.77   |
 | Qwen2.5-VL-32B     | 24.92     | 53.92       | 39.42   |
 | Qwen2.5-VL-7B      | 19.04     | 57.35       | 38.19   |
