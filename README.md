@@ -30,6 +30,7 @@
 </p>
 
 <p align="center">
+  <a href="https://effective-chart-dataset-synthesis.github.io/">🌐 Project Page </a> &ensp;
   <a href="https://huggingface.co/datasets/ChartFoundation/ECD-10k-Images">🤗 Dataset </a> &ensp;
   <a href="https://huggingface.co/datasets/ChartFoundation/ECDBench">🥇 Benchmark </a> &ensp;
   <a href="https://huggingface.co/ChartFoundation/ECD_Finetuned_MLLMs"> 🧠 Models </a> &ensp;
